@@ -41,7 +41,7 @@ public class AscendingOrderFile {
 			else if(choice==2)
 			{LockedMe lm = new LockedMe();lm.menuDisplay();}
 			else
-			{System.out.println("Invalid Option. Please enter valid option.");break;}
+			{System.out.println("\nInvalid Option. Please enter valid option.");break;}
 		}
 		while(choice!=2);		
 	}
