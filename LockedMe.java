@@ -61,7 +61,7 @@ public class LockedMe {
 				case 3:
 					System.out.println("\n");
 					System.out.println("\n");
-					System.out.println("Thank youfor visiting us!");
+					System.out.println("\n                 Thank you for visiting us!");
 				    break;
 				default:
 					System.out.println("Invalid Option.Please enter a valid option.");
